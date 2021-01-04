@@ -8,4 +8,5 @@ mempelajari xampp cara start (apache dan mysql)
 mempelajari yang ada dalam phpmyadmin
 membuat tabel di phpmyadmin
 GIT DAN GITHUB ini
+mempelajari tentang DRUPAL,WORDPRESS
 
